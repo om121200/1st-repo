@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run a one-line script
-        run: echo "hello omomomomom fork abhi chalega"
+        run: echo "hello omomomomom fork abhi chalegas"
